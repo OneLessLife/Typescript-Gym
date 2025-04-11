@@ -1,2 +1,2 @@
-# Typescript-Gym
+# typescript-gym
 gym-typescript
